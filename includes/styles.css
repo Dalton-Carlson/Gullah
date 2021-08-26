@@ -1,0 +1,61 @@
+ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 0px 0px 5px 0px;
+    /*margin: 50px 0px 50px 0px; */
+
+}
+div.upperhead {
+    background-color: #339933;
+    color: white;
+}
+div.search {
+    display: inline;
+    float: right;
+}
+
+nav {
+    background-color: #4248f5;
+    overflow: hidden;
+}
+
+nav a {
+    color: white;
+    padding: 0px 50px 0px 50px;
+    margin: fill;
+
+}
+
+nav a:hover {
+    background-color: #339933;
+}
+
+.error {
+    font-style: italic;
+    color: red;
+}
+
+.success {
+    font-style: italic;
+    color: green;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+}
+
+fieldset {
+    border: 4px groove white;
+    margin: auto;
+    width: 50%;
+}
+
+.header {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
